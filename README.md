@@ -1,5 +1,5 @@
 getgenv().Config = {
- ["Team"] = "Pirates",
+ ["Team"] = "Marines",
  ["Safe Health"] = {40, 50},
  ["Skip"] = { 
  ["Fruit"] = {["Enabled"] = true,
